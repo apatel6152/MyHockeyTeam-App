@@ -1,0 +1,19 @@
+.hero {
+  height: 500px;
+  background: url("https://www.paralympic.org/sites/default/files/styles/large_original/public/images/180326122623621_USA%2Bwin%2Bgold%2B4.jpg?itok=BcFDhxW6")
+    center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 4px;
+  color: #fff;
+  text-align: center;
+}
+
+.herotext {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
+}
